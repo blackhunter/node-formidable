@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04e66e65-0cd4-41ab-9907-aa4f8e375aef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/node-formidable.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-    </list>
+    <list default="true" id="04e66e65-0cd4-41ab-9907-aa4f8e375aef" name="Default" comment="" />
     <ignored path="node-formidable.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,7 +26,7 @@
       <file leaf-file-name="incoming_form.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/incoming_form.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.411226" vertical-offset="6470" max-vertical-offset="8789">
+            <state line="469" column="4" selection-start="11213" selection-end="11213" vertical-scroll-proportion="0.6884307" vertical-offset="7372" max-vertical-offset="9860">
               <folding />
             </state>
           </provider>
@@ -52,6 +45,13 @@
   <component name="GitLogSettings">
     <option name="myDateState">
       <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lib/incoming_form.js" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -216,7 +216,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/incoming_form.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-7.411226" vertical-offset="6470" max-vertical-offset="8789">
+        <state line="469" column="4" selection-start="11213" selection-end="11213" vertical-scroll-proportion="0.6884307" vertical-offset="7372" max-vertical-offset="9860">
           <folding />
         </state>
       </provider>
